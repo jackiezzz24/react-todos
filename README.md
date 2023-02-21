@@ -1,6 +1,6 @@
 # react-todos
 
-A simple Todo List table created using React
+A simple Todo List table created using React and TypeScript
 
 ### Demo
 ![1](https://user-images.githubusercontent.com/99145834/220249391-4c21e448-48b5-49c5-97a5-962f5f7e3c3c.JPG)
